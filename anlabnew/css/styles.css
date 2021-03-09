@@ -9,18 +9,15 @@ body {
   border-radius: 0;
   border: 0;
 }
-
 #logo-img {
-  background: url('../images/restaurant-logo_large.png') no-repeat;
+  background: url('../images/edit-Guy-Savoy-press-release-18.jpg') no-repeat;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
 }
-
 .navbar-brand {
   padding-top: 25px;
 }
-
 .navbar-brand h1 {
   font-family: 'Lora', serif;
   color: #557c3e;
@@ -44,7 +41,6 @@ body {
 .navbar-brand p span {
   vertical-align: middle;
 }
-
 #nav-list {
   margin-top: 10px;
 }
@@ -58,7 +54,6 @@ body {
 #nav-list a span {
   font-size: 1.8em;
 }
-
 #phone {
   margin-top: 5px;
 }
@@ -93,16 +88,14 @@ body {
 #menu-tile:hover, #specials-tile:hover, #map-tile:hover {
   box-shadow: 0 1px 5px 1px #cccccc;
 }
-
 #menu-tile {
-  background: url('../images/menu-tile.jpg') no-repeat;
+  background: url('../images/food-and-drinks-menu-title_1859686.jpg') no-repeat;
   background-position: center;
 }
 #specials-tile {
-  background: url('../images/specials-tile.jpg') no-repeat;
+  background: url('../images/maxresdefault.jpg') no-repeat;
   background-position: center;
 }
-
 #menu-tile span, #specials-tile span, #map-tile span {
   position: absolute;
   bottom: 0;
@@ -117,25 +110,25 @@ body {
 }
 @media (min-width: 1200px) {
   .container .jumbotron {
-    background: url('../images/jumbotron_1200.jpg') no-repeat;
+    background: url('../images/Alain-Ducasse-scaled.jpg') no-repeat;
     height: 675px;
   }
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   #logo-img {
-    background: url('../images/restaurant-logo_medium.png') no-repeat;
+    background: url('../images/edit-Guy-Savoy-press-release-18.jpg') no-repeat;
     width: 100px;
     height: 100px;
     margin: 5px 5px 5px 0;
   }
   .container .jumbotron {
-    background: url('../images/jumbotron_992.jpg') no-repeat;
+    background: url('../images/Alain-Ducasse-scaled.jpg') no-repeat;
     height: 558px;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .container .jumbotron {
-    background: url('../images/jumbotron_768.jpg') no-repeat;
+    background: url('../images/Alain-Ducasse-scaled.jpg') no-repeat;
     height: 432px;
   }
 }
@@ -155,7 +148,6 @@ body {
   .navbar-brand p img { 
     height: 20px;
   }
-
   #collapsable-nav a { 
     font-size: 1.2em;
   }
@@ -163,7 +155,6 @@ body {
     font-size: 1em;
     margin-right: 5px;
   }
-
   #call-btn > a {
     font-size: 1.5em;
     display: block;
@@ -183,7 +174,6 @@ body {
     margin-top: 30px;
     padding: 0;
   }
-
   #menu-tile, #specials-tile {
     width: 360px;
     margin: 0 auto 15px;
@@ -199,4 +189,3 @@ body {
     margin: 0 auto 15px;
   }
 }
-
